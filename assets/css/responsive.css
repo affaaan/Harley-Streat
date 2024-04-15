@@ -1,0 +1,671 @@
+@media only screen and (min-width: 1360px) {
+  .container {
+    max-width: 1390px;
+    padding: 0px 20px;
+    width: 100%;
+    margin: auto;
+  }
+}
+@media only screen and (max-width: 1360px) {
+  .book-consultation-section .book-consultation-title::after {
+    width: 41.5%;
+  }
+  .dark-card-text {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .doctors_content {
+    padding: 0px;
+  }
+  .banner-content .banner-box h3 {
+    font-size: 28px;
+  }
+  .banner-section .banner-img {
+    width: 65%;
+  }
+  .banner-section .banner-img img {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .plan_item {
+    margin-bottom: 75px;
+  }
+  .faq_items {
+    padding-bottom: 120px;
+  }
+  .we_accept {
+    margin-top: 20px;
+  }
+  h2 {
+    font-size: 40px !important;
+  }
+  .book-consultation-section::after {
+    height: 160px;
+  }
+  .book-consultation-section .book-consultation-title::after {
+    height: 160px;
+  }
+  .book-consultation-section .book-consultation-title::after {
+    width: 36.5%;
+  }
+  .limited-offer-section {
+    padding: 139px 24px 75px 59px;
+  }
+  .limited-offer-inner p {
+    font-size: 24px;
+  }
+  .celebrity-treatment-section .treatment-img {
+    width: 80%;
+  }
+  .celebrity-treatment-text h3 {
+    font-size: 40px;
+  }
+  .celebrity-treatment-section {
+    padding-top: 125px;
+  }
+  .consultation_type_content h3 {
+    font-size: 30px;
+  }
+  .consultation_type_content h4 {
+    margin-bottom: 20px;
+  }
+  .consultation_type_content p {
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+  .consultation_type_section {
+    padding-bottom: 0px;
+  }
+  .reviews-slider .slick-next {
+    left: -40%;
+  }
+  .dark-card-text p {
+    font-size: 14px;
+  }
+  .accordion-button {
+    font-size: 24px;
+  }
+  .book-consultation-section .book-consultation-title h3 {
+    font-size: 35px;
+  }
+  .consultation-left p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .consultation-left .consultant-img {
+    position: relative;
+    top: 0;
+  }
+  .section_title {
+    margin-bottom: 30px;
+  }
+  .main-header .header-inner .header-center {
+    max-width: 440px;
+  }
+  .why-chose-us-section {
+    padding-top: 60px;
+  }
+  .hair_style_field h4 {
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  .selling-fast-card {
+    top: 15%;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .header-center {
+    display: none;
+  }
+  .mobile-menu {
+    display: block;
+  }
+  .selling-fast-card {
+    margin: auto;
+    position: relative;
+    left: auto;
+    right: auto;
+    top: auto;
+    bottom: auto;
+  }
+  .treatment-process-text {
+    padding-top: 50px;
+  }
+  .treatment-result-card .result-card-footer h5 {
+    font-size: 20px;
+  }
+  .treatment-result-card {
+    height: 206px;
+  }
+  .hair-transplant-method-section {
+    padding-top: 0px;
+  }
+  .dark-card-content::after {
+    width: 100%;
+    height: 70%;
+  }
+  .dark-card-img-section .dark-card-img {
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .meet_our_doctors_section {
+    padding: 0px;
+  }
+  .hair_style_field {
+    padding-left: 0px;
+    padding-top: 40px;
+  }
+  .consultation-right {
+    padding-left: 0px;
+  }
+  .consultation-left {
+    margin-bottom: 56px;
+  }
+  .consultation-left p {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+  }
+  .consultation-left .consultant-img {
+    position: inherit;
+    top: 0;
+    right: auto;
+    left: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+  .book-consultation-section::after {
+    height: 67px;
+    top: 102px;
+    width: 50%;
+  }
+  .book-consultation-section .book-consultation-title {
+    position: relative;
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+  }
+  .book-consultation-section .book-consultation-title::after {
+    height: 67px;
+    top: -11px;
+    width: 100%;
+  }
+  .book-consultation-section .book-consultation-title h3 {
+    color: #000000;
+  }
+  .consultation-form-card {
+    margin: auto;
+  }
+  .our-reviews-left {
+    margin-bottom: 25px;
+  }
+  .our-reviews-left h2 {
+    margin-bottom: 20px;
+  }
+  .hair-transplant-method-section {
+    padding-bottom: 40px;
+  }
+  .video-consultation-section h2 {
+    line-height: normal;
+    font-size: 32px;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .video-consultation-left .high-demand-card {
+    margin: auto;
+    margin-bottom: 72px;
+  }
+  .dark-card-img-section {
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+  }
+  .treatment-result-slider .slick-next {
+    top: auto;
+    bottom: 15%;
+    right: auto;
+    left: 40px;
+    height: 32px;
+    width: 32px;
+  }
+  .treatment-result-slider .slick-prev {
+    top: auto;
+    bottom: 15%;
+    right: auto;
+    left: 0px;
+    height: 32px;
+    width: 32px;
+  }
+  .consultation_type_content {
+    text-align: center;
+    padding: 0px;
+    margin: auto;
+    margin-top: 50px;
+  }
+  .consultation_type_content h3 {
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .consultation_type_content h4 {
+    margin: auto;
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+  .consultation_type_content p {
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .consultation_type_content p br {
+    display: none;
+  }
+  .consultation_type_content .booking_btn {
+    margin: auto;
+  }
+  .reviews-slider .slick-next {
+    top: auto;
+    bottom: -18%;
+    right: auto;
+    left: 40px;
+    height: 32px;
+    width: 32px;
+  }
+  .reviews-slider .slick-prev {
+    top: auto;
+    bottom: -18%;
+    right: auto;
+    left: 0px;
+    height: 32px;
+    width: 32px;
+  }
+  .video-consultation-left .dr-img {
+    position: relative;
+    left: auto;
+    right: auto;
+    text-align: center;
+  }
+  .our-reviews-section {
+    padding-bottom: 140px;
+  }
+  .faq_heading {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .faq_heading h4 {
+    font-size: 30px;
+  }
+  .faq_heading h5 {
+    font-size: 30px;
+  }
+  .faq_heading .line {
+    width: 156px;
+  }
+  .hair_styles {
+    justify-content: center;
+  }
+  .offcanvas_top_button {
+    width: auto;
+    padding: 0;
+    margin: auto;
+  }
+  .offcanvas_header_top h5 {
+    font-size: 15px;
+  }
+  .your_next_step_wrapper {
+    flex-wrap: wrap;
+  }
+  .your_next_step::before {
+    height: 85%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .top-header-left {
+    display: none;
+  }
+  .top-header-inner {
+    flex-direction: row-reverse;
+  }
+  .banner-bottom {
+    flex-wrap: wrap-reverse;
+    gap: 53px;
+  }
+  .banner-content h1 {
+    text-align: center;
+    max-width: 358px;
+    margin: auto;
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  .banner-content .banner-box {
+    margin: auto;
+  }
+  .banner-bottom-right {
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+  }
+  .banner-bottom-right .stars {
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 400px;
+  }
+  .banner-section {
+    padding-bottom: 0px;
+  }
+  .banner-section .banner-img {
+    position: relative;
+    margin-left: auto;
+  }
+  .celebrity-treatment-section {
+    padding-top: 74px;
+  }
+  .celebrity-treatment-section .treatment-img {
+    position: relative;
+    width: 100%;
+  }
+  .celebrity-treatment-text {
+    margin: auto;
+  }
+  .celebrity-treatment-text h2 {
+    max-width: 358px;
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+  }
+  .celebrity-treatment-text h3 {
+    text-align: center;
+    font-size: 36px;
+  }
+  .book-now-payment-section {
+    padding-bottom: 60px;
+  }
+  .why-chose-btns {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .book-now-payment-section .pay-list {
+    flex-wrap: wrap;
+  }
+  .book-now-payment-section .pay-list .icon-btn {
+    margin: auto;
+  }
+  .treatment-result-slider .slick-list {
+    margin-right: 0px;
+  }
+  .reviews-slider .slick-list {
+    margin-right: 0px;
+  }
+  .dark-card-text .dark-card-btns {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .dark-card-text .dark-card-btns .icon-btn {
+    width: 100% !important;
+  }
+  .faq_heading .line {
+    bottom: 40px;
+  }
+  footer {
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  .footer_item_2 h5 {
+    margin-top: 40px;
+  }
+  .footer_item_2 ul li {
+    justify-content: center;
+  }
+  .footer_item_3 h6 {
+    margin-top: 30px;
+  }
+  .video-consultation-section {
+    padding-top: 60px;
+    position: relative;
+  }
+  .video-consultation-section::after {
+    content: "";
+    height: 53px;
+    width: 90%;
+    border-radius: 0px 92.056px 92.056px 0px;
+    background: #2F3B4B;
+    position: absolute;
+    left: 0px;
+    top: 57px;
+    z-index: 0;
+  }
+  .video-consultation-section h2 {
+    position: relative;
+    z-index: 1;
+  }
+  .consultation_type_section .heading {
+    max-width: 352px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 25px;
+  }
+  .consultation_type_section .heading h2 {
+    font-size: 32px !important;
+  }
+  .consultation_type_section .heading h3 {
+    font-size: 24px;
+  }
+  .our_clinics_section {
+    padding-top: 40px;
+  }
+  .hair_styles {
+    justify-content: center;
+  }
+  .header-left .logo {
+    max-width: 127px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .accordion-button {
+    font-size: 18px;
+  }
+  .limited-offer-inner p {
+    font-size: 18px;
+  }
+  .limited-offer-section {
+    padding: 119px 20px 15px 20px;
+  }
+  .celebrity-treatment-section {
+    margin-top: 70px;
+  }
+  .clinics_top .btn {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .mobile-menu-content {
+    max-width: 80%;
+  }
+  .consultant_wrapper {
+    position: relative;
+  }
+  .offcanvas_top_button {
+    width: 193px;
+    padding: 0;
+    margin: auto;
+  }
+  .contact_body {
+    padding: 0 50px 0 50px;
+  }
+  .thankyou_main_banner {
+    background-position: right bottom;
+  }
+  .thankyou_close {
+    filter: brightness(1) invert(0);
+  }
+  .down_arrow {
+    display: none;
+  }
+  .your_next_step {
+    padding: 93px 38.24px 43px 46px;
+  }
+  .your_next_step_wrapper {
+    display: inherit;
+  }
+  .your_next_step::before {
+    left: auto;
+    right: 0;
+    bottom: 10px;
+    border-radius: 23.32px 0 0 23.32px;
+    width: 623px;
+    height: 573px;
+  }
+  .your_next_step h2 {
+    width: 321px;
+    font-size: 40px;
+    margin-right: 0px;
+  }
+  .step_item {
+    display: flex;
+    margin-bottom: 7.77px;
+  }
+  .your_nextstep_bottom {
+    width: 100%;
+    height: 133px;
+  }
+  .nextstep_bottom_left p {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    text-align: center;
+  }
+  .nextstep_bottom_right {
+    justify-content: center;
+    margin-top: 0;
+  }
+  .nextstep_bottom_right .offcanvas_top_button {
+    background: #2F3B4B;
+    padding: 0;
+  }
+  .offcanvas_we_accept .cards {
+    align-items: inherit;
+  }
+  .offcanvas_we_accept .cards h3 {
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .high-demand-card h4 {
+    font-size: 24px;
+  }
+  .high-demand-card h4 span {
+    font-size: 16px;
+  }
+  .form_field {
+    padding: 25px;
+  }
+  .consultation-form-card {
+    padding: 52px 25px 47px 25px;
+  }
+  .chose-us-card {
+    max-width: 300px;
+    width: 100%;
+    margin: auto;
+  }
+  .our-reviews-section {
+    padding-top: 48px;
+  }
+  .top-header-center {
+    position: relative;
+  }
+  .top-header-center::after {
+    content: "";
+    width: 2px;
+    height: 16px;
+    background: #FFFFFF;
+    position: absolute;
+    left: -20px;
+    top: 1px;
+  }
+  .footer_item_3 .newsletter_btn {
+    width: 100%;
+  }
+  .header-right .icon-btn {
+    width: 152px;
+  }
+  .mobile-menu-content {
+    max-width: 100%;
+  }
+  .banner-content .banner-box {
+    max-width: 350px;
+  }
+  .banner-content .banner-box .icon-btn {
+    width: 100%;
+  }
+  .contact_body {
+    padding: 0 40px 0 40px;
+  }
+  .offcanvas_header_top {
+    height: auto;
+  }
+  .offcanvas-header {
+    margin-top: 15px;
+  }
+  .offcanvas_header_top h5 {
+    width: 100%;
+    font-size: 14px;
+    text-align: center;
+    line-height: 18px;
+  }
+  .offcanvas_top_button {
+    width: 193px;
+    padding: 14px 20px;
+    margin: auto;
+  }
+  .offcanvas_banner_content h2 {
+    font-size: 34.929px;
+  }
+  .paynow_buttons .btn {
+    font-size: 14px;
+  }
+  .thankyou_main_banner {
+    background-size: 254.715px;
+  }
+  .consultant_wrapper {
+    position: inherit;
+  }
+  .your_next_step::before {
+    width: 437px;
+  }
+  .nextstep_bottom_right {
+    margin-top: 5px;
+  }
+  .offcanvas_we_accept .cards {
+    display: inherit;
+  }
+}
+@media only screen and (max-width: 410px) {
+  .top-header-inner {
+    font-size: 12px;
+  }
+  .paynow_buttons .btn {
+    font-size: 12px;
+  }
+  .offcanvas_banner_content h2 {
+    margin-bottom: 100px;
+  }
+  .offcanvas_header_top h5 {
+    width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+  }
+  .your_next_step::before {
+    width: 287px;
+  }
+}
